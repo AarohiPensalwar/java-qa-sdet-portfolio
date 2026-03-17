@@ -1,0 +1,15 @@
+public class UserProfile {
+    public static void main(String[] args) {
+
+        String name = "Aarohi";
+        int age = 35;
+        String role = "QA Automation Engineer";
+        String location = "Pune";
+
+        System.out.println("----- USER PROFILE -----");
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Role: " + role);
+        System.out.println("Location: " + location);
+    }
+}
